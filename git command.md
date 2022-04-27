@@ -32,6 +32,6 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 25. git merge tenNhanhConCanGop
 26. git merge --abort (huy gop nhanh)
 27. git branch -d tenNhanhCanXoa
-28. 
+28. git checkout 322sadf
 29. 
 
