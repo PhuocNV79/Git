@@ -33,5 +33,8 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 26. git merge --abort (huy gop nhanh)
 27. git branch -d tenNhanhCanXoa
 28. git checkout 322sadf
-29. 
+
+## Git 05
+29. git rebase tenNhanhMuonGop
+30. git rebase continue
 
