@@ -46,6 +46,10 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 34. git remote -v
 35. git remote rm tenRemote
 36. git push tenRemote
-37. git push tenNhanh tenRemote
+37. git push tenRemote tenNhanh
 38. git push --all tenRemote
-39. 
+39. git push -u tenNhanh tenRemote
+40. git push --delete tenRemote tenNhanhRemote
+41. git clone diaChiLuTruGit
+42. git fetch
+43. 
