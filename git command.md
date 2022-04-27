@@ -2,6 +2,7 @@
 
 https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIUX-q&index=2
 
+## Git 02
 1. git status
 2. git branch
 3. git add
@@ -12,7 +13,7 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 8. git log
 9. git log --oneline
 10. git restore abcFile
-11. git restore .
+11. git restore -- .
 12. git diff
 13. git diff --staged (so sanh voi commit cuoi)
 14. git diff dsrb23 23kbsdf
@@ -20,5 +21,11 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 16. git checkout 324dsfgd (//id cua commit) -- abcFile
 17. git checkout 53sfas -- .
 18. .gitignore
-19. 
+
+## Git 03
+20. Git reset --soft HEAD~1
+21. git reset --hard
+22. git reset -- abcFile
+23. 
+24.  
 
