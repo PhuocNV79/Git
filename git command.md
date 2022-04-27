@@ -26,6 +26,8 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 20. Git reset --soft HEAD~1
 21. git reset --hard
 22. git reset -- abcFile
-23. 
-24.  
+23. git branch
+24. git branch tenNhanh
+25. git merge tenNhanhCon
+26.  
 
