@@ -36,5 +36,9 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 
 ## Git 05
 29. git rebase tenNhanhMuonGop
-30. git rebase continue
+30. git rebase --continue
 
+
+## Git 06
+31. ssh
+32. 
