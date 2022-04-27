@@ -10,5 +10,9 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 6. git commit -m "content"
 7. git log
 8. git log --oneline
-9. 
+9. git restore abcFile
+10. git restore .
+11. git diff
+12. git diff --staged (so sanh voi commit cuoi)
+13. git checkout 324dsfgd (//id cua commit) -- abcFile 
 
