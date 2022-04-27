@@ -52,4 +52,6 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 40. git push --delete tenRemote tenNhanhRemote
 41. git clone diaChiLuTruGit
 42. git fetch
-43. 
+43. git fetch tenRemote
+44. git pull tenRemote tenNhanhMuonCapNhatOLocal
+45. 
