@@ -41,4 +41,11 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 
 ## Git 06
 31. ssh
-32. 
+32. git remote
+33. git remote add tenRemote diaChiRemote (co the dung ssh)
+34. git remote -v
+35. git remote rm tenRemote
+36. git push tenRemote
+37. git push tenNhanh tenRemote
+38. git push --all tenRemote
+39. 
