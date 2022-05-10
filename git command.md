@@ -57,4 +57,4 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 43. git fetch tenRemote
 44. git pull tenRemote tenNhanhMuonCapNhatOLocal
 45. git log --oneline tenRemote/tenNhanh
-46. 
+46. copy file tu branch nay sang branch khac : 1-> dung o branch muon copy, 2->git checkout tenbranchChuafiile duongDanFile
