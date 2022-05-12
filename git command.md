@@ -48,13 +48,14 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 34. `git remote -v` : xem dia chi cua remote
 35. `git remote rm tenRemote` : xoa 1 remote
 36. `git push tenRemote` : up toan bo du lieu, cac nhanh len remote
-37. `git push tenRemote tenNhanh` : push nhanh tenNhanh tren remote
+37. `git push tenRemote tenNhanh` : push nhanh tenNhanh tren remote 
 38. `git push --all tenRemote`
 39. `git push -u tenNhanh tenRemote` : push va tao upstream  de lan sau chi viec chay git push
 40. `git push --delete tenRemote tenNhanhRemote` : xoa nhanh tenNhanhRemote tren remote tenRemote
-41. git clone diaChiLuTruGit
-42. `git fetch`
+41. `git clone diaChiLuTruGit` : tai ve source code tu remote repository
+42. `git fetch` : cap nhat thong tin moi tu remote,  nhung chua ap dung vao local
 43. `git fetch tenRemote`
-44. `git pull tenRemote tenNhanhMuonCapNhatOLocal`
+44. `git pull tenRemote tenNhanhMuonCapNhatOLocal` : cap nhat nhanh tenNhanhMuonCapNhatOLocal tu remote tenRemote ve local
 45. git log --oneline tenRemote/tenNhanh
 46. copy file tu branch nay sang branch khac : 1-> dung o branch muon copy, 2->git checkout tenbranchChuafiile duongDanFile
+47. 
