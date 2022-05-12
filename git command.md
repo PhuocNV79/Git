@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 37. `git push tenRemote tenNhanh` : push nhanh tenNhanh tren remote
 38. `git push --all tenRemote`
 39. `git push -u tenNhanh tenRemote` : push va tao upstream  de lan sau chi viec chay git push
-40. `git push --delete tenRemote tenNhanhRemote`
+40. `git push --delete tenRemote tenNhanhRemote` : xoa nhanh tenNhanhRemote tren remote tenRemote
 41. git clone diaChiLuTruGit
 42. `git fetch`
 43. `git fetch tenRemote`
