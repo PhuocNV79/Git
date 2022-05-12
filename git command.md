@@ -58,4 +58,21 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 44. `git pull tenRemote tenNhanhMuonCapNhatOLocal` : cap nhat nhanh tenNhanhMuonCapNhatOLocal tu remote tenRemote ve local
 45. git log --oneline tenRemote/tenNhanh
 46. copy file tu branch nay sang branch khac : 1-> dung o branch muon copy, 2->git checkout tenbranchChuafiile duongDanFile
-47. 
+
+## Git 09 : Fork va Pull request tren github
+
+47. fork : dung de tham gia cung phat trien voi tac gia cua git repository tren git hub
+48. pull request : len git repository tao 1 pull request, dien title, noi dung cua pull request gui cho owner
+
+
+
+
+
+
+
+
+
+
+
+
+
