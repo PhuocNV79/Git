@@ -4,25 +4,26 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 
 ## Git 02
 1. `git status`
-2. `git branch`
-3. `git add`
-4. `git add .`
-5. <img width="547" alt="image" src="https://user-images.githubusercontent.com/96764572/165423810-aee628cf-7b35-4ce9-8df0-1f6bc824d571.png">
-6. `git commit -m "content"`
-7. `git commit --amend -m "content"`
-8. `git log`
-9. git log --oneline
-10. git log --oneline --graph
-11. git log --oneline tenRemote/tenNhanh
-12. git restore abcFile
-13. git restore -- .
-14. git diff
-15. git diff --staged (so sanh voi commit cuoi)
-16. git diff dsrb23 23kbsdf
-17. git diff asf4 4dsaf --stat
-18. git checkout 324dsfgd (//id cua commit) -- abcFile
-19. git checkout 53sfas -- .
-20. .gitignore
+2. `git branch` : kiem tra branch hien tai
+3. `git branch -m newName` : doi ten branch dang dung
+4. `git branch -m oldName newName` : doi ten branch, neu dang dung o branch khac
+5. `git add .` : them tat ca thay doi vao git quan ly
+6. <img width="547" alt="image" src="https://user-images.githubusercontent.com/96764572/165423810-aee628cf-7b35-4ce9-8df0-1f6bc824d571.png">
+7. `git commit -m "content"`
+8. `git commit --amend -m "content"`
+9. `git log`
+10. git log --oneline
+11. git log --oneline --graph
+12. git log --oneline tenRemote/tenNhanh
+13. git restore abcFile
+14. git restore -- .
+15. git diff
+16. git diff --staged (so sanh voi commit cuoi)
+17. git diff dsrb23 23kbsdf
+18. git diff asf4 4dsaf --stat
+19. git checkout 324dsfgd (//id cua commit) -- abcFile
+20. git checkout 53sfas -- .
+21. .gitignore
 
 ## Git 03
 20. git reset --soft HEAD~1
@@ -62,7 +63,8 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 ## Git 09 : Fork va Pull request tren github
 
 47. fork : dung de tham gia cung phat trien voi tac gia cua git repository tren git hub
-48. pull request : len git repository tao 1 pull request, dien title, noi dung cua pull request gui cho owner
+48. pull request : len git repository tao 1 pull request, dien title, noi dung cua pull request gui cho owner.
+   - 1. nhan vao pull request
 
 
 
