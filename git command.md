@@ -43,14 +43,14 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 
 ## Git 06
 31. ssh
-32. git remote
-33. git remote add tenRemote diaChiRemote (co the dung ssh)
-34. git remote -v
-35. git remote rm tenRemote
-36. git push tenRemote
-37. git push tenRemote tenNhanh
+32. git remote : kiem tra local dang ket noi toi remote nao
+33. git remote add tenRemote diaChiRemote (co the dung ssh) : tao 1 remote moi
+34. git remote -v : xem dia chi cua remote
+35. git remote rm tenRemote : xoa 1 remote
+36. git push tenRemote : up toan bo du lieu, cac nhanh len remote
+37. git push tenRemote tenNhanh : push nhanh tenNhanh tren remote
 38. git push --all tenRemote
-39. git push -u tenNhanh tenRemote
+39. git push -u tenNhanh tenRemote : push va tao upstream  de lan sau chi viec chay git push
 40. git push --delete tenRemote tenNhanhRemote
 41. git clone diaChiLuTruGit
 42. git fetch
