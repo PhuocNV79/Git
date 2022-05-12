@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=fJImlz2N8vc&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIU
 30. git rebase --continue
 
 
-## Git 06
+## Git 06 : Lam viec voi remote repository
 31. ssh
 32. `git remote` : kiem tra local dang ket noi toi remote nao
 33. `git remote add tenRemote diaChiRemote` (co the dung ssh) : tao 1 remote moi
