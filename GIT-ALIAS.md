@@ -1,7 +1,7 @@
 # Git
 - .gitconfig location: git config --list --show-origin
 - ck = checkout
-- cm = commit
+- cmm = commit -m
 - a = add
 - br = branch
 - logOG = log --oneline --graph
