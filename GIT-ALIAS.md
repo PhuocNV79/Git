@@ -4,5 +4,5 @@
 - cm = commit
 - a = add
 - br = branch
-- logOneGraph = log --oneline --graph
-- diffNameOnly = diff --name-only
+- logOG = log --oneline --graph
+- diffNO = diff --name-only
