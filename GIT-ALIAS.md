@@ -1,7 +1,8 @@
 # Git
-	- ck = checkout
-	- cm = commit
-	- a = add
-	- br = branch
-	- logOneGraph = log --oneline --graph
-	- diffNameOnly = diff --name-only
+- .gitconfig location: git config --list --show-origin
+- ck = checkout
+- cm = commit
+- a = add
+- br = branch
+- logOneGraph = log --oneline --graph
+- diffNameOnly = diff --name-only
