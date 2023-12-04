@@ -8,9 +8,8 @@
     Nếu đã nhỡ commit rồi muốn sửa lại thi ta có thể sử dụng
         `git commit --amend --author="Name <email>" -m "commit message"`
 
-3. Sau khi merge mà không tự tin lắm muốn trở lại trước lúc merge
+3. Sau khi merge mà không tự tin lắm muốn trở lại trước lúc merge:
         `git reset --hard ORIG_HEAD`
-
         Cách trên cũng áp dụng được với rebase , 
         hoặc không thì ta có lại sử dụng đến `git reflog` sau đó `git reset --head <commit_hash>`
        để tìm lại commit cuối cùng của branch trước khi merge hoặc rebase
