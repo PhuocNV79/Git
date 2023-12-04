@@ -12,9 +12,10 @@
         `git reset --hard ORIG_HEAD`
 
         Cách trên cũng áp dụng được với rebase , 
-        hoặc không thì ta có lại sử dụng đến git reflog sau đó git reset --head <commit_hash> để tìm lại commit cuối cùng của branch trước khi merge hoặc rebase
+        hoặc không thì ta có lại sử dụng đến `git reflog` sau đó `git reset --head <commit_hash>`
+       để tìm lại commit cuối cùng của branch trước khi merge hoặc rebase
 
-4. Nhỡ pull về mà conflic nhiều quá, fix không nổi nản quá muốn trở lại
+5. Nhỡ pull về mà conflic nhiều quá, fix không nổi nản quá muốn trở lại
         `git merge --abort`
         or
         `git reset --hard ORIG_HEAD` 
